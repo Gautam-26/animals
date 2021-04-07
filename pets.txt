@@ -3,3 +3,6 @@ Pintu
 Tommy
 Julie
 Buddy
+Tom
+Dick
+Harry
